@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://etrentop.github.io/sitemap.html.gz
+Sitemap: https://etrentop.github.io/app/sitemap.html.gz
+Sitemap: https://etrentop.github.io/assets/sitemap.html.gz
+Sitemap: https://etrentop.github.io/css/sitemap.html.gz
+Sitemap: https://etrentop.github.io/includes/sitemap.html.gz
+Sitemap: https://etrentop.github.io/item/sitemap.html.gz
+Sitemap: https://etrentop.github.io/src/sitemap.html.gz
